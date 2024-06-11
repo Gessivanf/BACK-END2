@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto web-Lh Pets versão 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d89d402d5ea7fce7fd10209963f86e57838ffe9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto web-Lh Pets versão 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto web-Lh Pets versão 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
